@@ -20,5 +20,5 @@ A simple Tic-Tac-Toe game implemented using Java GUI. This project demonstrates 
 1. *Clone the Repository:*
    ```bash
    git clone https://github.com/Badrivishal5542/TIC-TAC-TOE.git
-   cd TIC-TAC-TOE 
+   cd TIC-Tac-TOE 
    java tictattoe.java
